@@ -1,0 +1,4 @@
+enum ServerError {
+    InternalServerError,
+    BadRequest,
+}

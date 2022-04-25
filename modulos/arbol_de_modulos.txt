@@ -1,0 +1,8 @@
+lib (aplicacion, raíz)
+- constants
+- server
+    - acceptor
+        - errors
+        - thread
+    - constants
+    - errors
